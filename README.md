@@ -58,9 +58,9 @@ You can submit at any time. Proposals will be collected and ranked every year ac
 
 | Deadline for application\* | Start date workshop/visits | Notification  |
 | -------------------------- | -------------------------- | ------------  |
-| 15th March                 | 1st May or later           | 15th April    |
-| 15th July                  | 1st September or later     | 15th August   |
-| 15th November              | 1st January or later       | 15th December |
+| 15th May                   | 1st July or later          | 15th June     |
+| 15th September             | 1st November or later      | 15th October  |
+| 15th January               | 1st March or later         | 15th February |
 
 \*anywhere on earth
 
