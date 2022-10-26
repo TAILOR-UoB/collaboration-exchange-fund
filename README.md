@@ -47,7 +47,8 @@ How to apply?
 
 The collaboration exchange fund uses a continuous open call. Every 4 months, proposals are ranked by an international review committee.
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vQ8xuwNCmF1p51WqWaF87RgoNMOUJbfVwO2UXoJQExj-UeGWTlZpLKyVWKlax2UdcSx6pJbvYsmZ9AU/pub?w=419&amp;h=155">
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vQ8xuwNCmF1p51WqWaF87RgoNMOUJbfVwO2UXoJQExj-UeGWTlZpLKyVWKlax2UdcSx6pJbvYsmZ9AU/pub?w=901&h=454">
+
 
 _The previous figure can be edited in the [Google Drawing schema](https://docs.google.com/drawings/d/1NTuoQ2cPq9FHX2M6U6Q1VON2fhNokW2x2nnvXRCpZzM/edit?usp=sharing)_
 
