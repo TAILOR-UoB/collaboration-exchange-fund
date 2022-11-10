@@ -27,6 +27,7 @@ We especially aim to support PhD students to gain valuable experience and nurtur
 - [Read more & Apply ->](#how-to-apply)
 - [Scientific board ->](#scientific-board)
 
+[![Map of TAILOR partners and members](imgs/map.jpg)](https://www.google.com/maps/d/edit?mid=1_-74YJ64PddGA3ITqfKT2nOtUUoCTcQ&usp=sharing)
 
 ## Research Visits
 
