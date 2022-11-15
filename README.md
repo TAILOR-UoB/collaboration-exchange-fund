@@ -15,7 +15,7 @@ COLLABORATION EXCHANGE FUND
 
 ## For A Truly Vibrant Network Of Excellence
 
-Deadlines any year: 15th March – 15th July – 15th November
+Deadlines any year: 15th January – 15th May – 15th September
 
 ## Boosting Connections Between TAILOR Members
 
@@ -27,19 +27,20 @@ We especially aim to support PhD students to gain valuable experience and nurtur
 - [Read more & Apply ->](#how-to-apply)
 - [Scientific board ->](#scientific-board)
 
-[![Map of TAILOR partners and members](imgs/map.jpg)](https://www.google.com/maps/d/edit?mid=1_-74YJ64PddGA3ITqfKT2nOtUUoCTcQ&usp=sharing)
 
 ## Research Visits
 
-We support research visits between 1 and 12 months. We will pick up the bills so that you can focus on doing excellent AI. You and your host lab must belong to the TAILOR network.
+We support research visits between 1 and 3 months. We will pick up the bills so that you can focus on doing excellent AI. You and your host lab must belong to the TAILOR network.
 
 ## Great! Can I apply?
 
-The collaboration exchange fund is open to all TAILOR member PhD students. You need to propose an AI research idea which can benefit from the collaboration of another TAILOR network lab. You should be invited by the host lab with a letter of recommendation.
+The collaboration exchange fund is open to all PhD students from a lab affiliated as a TAILOR network member (see a list of the current members [here](https://tailor-network.eu/network-members/)). You can find the physical location of those lab members in the map below. You need to propose an AI research idea which can benefit from the collaboration of another TAILOR network lab. You should be invited by the host lab with a letter of recommendation which needs to be included into the application form.
+
+[![Map of TAILOR partners and members](imgs/map.jpg)](https://www.google.com/maps/d/edit?mid=1_-74YJ64PddGA3ITqfKT2nOtUUoCTcQ&usp=sharing)
 
 ## Research Visits Goals
 
-For research visits, we are looking for visits that help young researchers gain experience and world-wide recognition by working in excellent labs (scientific step-up). Ideally, the visit also brings in expertise from outside the TAILOR network (scientific influx) and/or align different European AI initiatives (scientific alliance).
+We are looking for visits that help young researchers gain experience and world-wide recognition by working in excellent labs (scientific step-up). ~Ideally, the visit also brings in expertise from outside the TAILOR network (scientific influx) and/or align different European AI initiatives (scientific alliance).~
 
 
 How to apply?
@@ -55,13 +56,14 @@ _The previous figure can be edited in the [Google Drawing schema](https://docs.g
 
 ## When?
 
-You can submit at any time. Proposals will be collected and ranked every year according to the following schedule. Latest possible submission is 15th of March 2023.
+You can submit at any time. Proposals will be collected and ranked every year according to the following schedule. Latest possible submission is 15th of January 2024 (with a start date no later than 1st of June).
 
-| Deadline for application\* | Start date workshop/visits | Notification  |
+| Deadline for application\* | Start date visits          | Notification  |
 | -------------------------- | -------------------------- | ------------  |
+| 15th January               | 1st March or later         | 15th February |
 | 15th May                   | 1st July or later          | 15th June     |
 | 15th September             | 1st November or later      | 15th October  |
-| 15th January               | 1st March or later         | 15th February |
+
 
 \*anywhere on earth
 
@@ -93,34 +95,27 @@ Proposals will be evaluated on the following points, using the respective weigth
 - **Scientific track record** (25%). Your prior achievements, taking into account age and personal situation. 
 - **Scientific step-up** (25%). How does the visit help you grow professionally and establish a worldwide reputation?
 - **Suitability of the host** (12.5%). Is the host lab appropriate? Is it the best place to do the proposed research?
-- **Suitability of the visit length** (12.5%). Is the visit length appropriate and realistic, also taking into account your personal and family situation? If you plan to separate the research visit into multiple visits, clearly explain why this is necessary. This could either be for scientific or personal reasons (e.g. family commitments).
+- **Suitability of the visit length** (12.5%). Is the visit length appropriate and realistic, also taking into account your personal and family situation? ~If you plan to separate the research visit into multiple visits, clearly explain why this is necessary. This could either be for scientific or personal reasons (e.g. family commitments).~
 
-During submission, you can choose a preferred evaluator for your proposal from the scientific board. The actual reviewer may be different as we aim to evenly distribute the evaluation load.
+During submission, you should choose at least three preferred evaluators for your proposal from the [scientific board](#scientific-board). The actual reviewer may be different as we aim to evenly distribute the evaluation load.
 
 ## Who Can Apply? Where Can I Go?
 
-You should be from a TAILOR lab, and be invited by a different TAILOR lab. 
-
-~All European AI researchers are eligible. You should be able to demonstrate that you work at a European lab and are active in AI through your publication record, or using other proof of involvement in AI research projects. You should be from a non-TAILOR lab and interested in visiting a TAILOR lab (see list below). Or, you should be from a TAILOR lab, and be invited by a non-TAILOR lab.~
-
-~~Since the Connectivity Fund is a ‘Third Party Funding’ mechanism, we can only reimburse non-TAILOR participants. In practice, this means that, if you are from a non-TAILOR lab, you submit the application yourself. People working at a TAILOR lab can only be invited to visit a non-TAILOR lab, in which case the non-TAILOR lab needs to submit the application.~~
-
-‘European’ countries means all EU and associated countries. Before submission, please check whether your lab is located in the EU or an EU associated country (see list).
+You should be a PhD student affiliated to a lab that belongs to the TAILOR network. The host lab should also belong to the TAILOR network of excellence (you can find a list of the members [here](https://tailor-network.eu/network-members/)).
 
 In almost all cases, your own nationality is not important, but rather where the lab is located that will receive the funding for your research visit or workshop. That can be either your own lab or your host lab.
-~As stated before, that lab should be a non-TAILOR lab to be able to recieve third party funding. Workshops funded by the connecticity fund (and hosted by non-TAILOR labs) can cover travel costs for people outside of Europe if they handle the reimbursements.~
 
 ## How Much?
 
-We can support visits ~and workshops~ up to *XX.XXX* ~15.000~ EUR per proposal. More could be requested given a really good motivation. We aim to support **XXX** ~~100~~ visits over 3 years. The fund only covers travel, housing, and sustenance. The support is offered as a lump sum based on a cost estimate submitted beforehand. 60% of the lump sum will be paid at the start of the visit. The remaining 40% will be paid after the final report has been received and approved.
+We can support visits up to 15.000 EUR per proposal. We aim to support **20** visits over 2 years. The fund only covers travel, housing, and sustenance. The support is offered as a lump sum based on a cost estimate submitted beforehand. 60% of the lump sum will be paid at the start of the visit. The remaining 40% will be paid after the final report has been received and approved.
 
 ## Practical Organization
 
-Collaboration Exchange Fund research visits are executed as financial support to third parties (FSTP), and only reimburses travel costs (by invoice). A Subgrant Agreement will be established between the institute of the applicant (e.g. a university or company) and the Eindhoven University of Technology, who manages the collaboration exchange fund on behalf of the TAILOR Network of Excellence. The agreement is signed by representatives of both parties. We cannot fund individual people directly. A final budget and start and end dates of the research program are defined in the subgrant agreement. 60% of this budget can be requested by invoice before the start of the research visit or workshop. The remainder of the budget can be requested by a second invoice after the end of the visit or workshop, matching (only) the actual costs made. The recipient of the subgrant must ensure that proofs of actual costs are kept for the European Court of Auditors (ECA) and European Anti-fraud Office (OLAF) for a period of 5 years. Such costs can be actual proofs or per-diem allowances per local regulations of the recipient. Expenses are capped using the standard per diem rates for Dutch universities, and expenditures before or after the duration of the proposed research program are not eligible. As part of the subgrant, the recipient agrees to submit a final scientific report within 3 months after the end of the research program. For visits longer than 6 months, intermediate reports must be submitted every 6 months.
+Collaboration exchange fund research visits are executed as financial support to third parties (FSTP), and only reimburses travel costs (by invoice). A Subgrant Agreement will be established between the institute of the applicant (e.g. a university or company) and the Eindhoven University of Technology, who manages the collaboration exchange fund on behalf of the TAILOR Network of Excellence. The agreement is signed by representatives of both parties. We cannot fund individual people directly. A final budget and start and end dates of the research program are defined in the subgrant agreement. 60% of this budget can be requested by invoice before the start of the research visit. The remainder of the budget can be requested by a second invoice after the end of the visit or workshop, matching (only) the actual costs made. The recipient of the subgrant must ensure that proofs of actual costs are kept for the European Court of Auditors (ECA) and European Anti-fraud Office (OLAF) for a period of 5 years. Such costs can be actual proofs or per-diem allowances per local regulations of the recipient. Expenses are capped using the standard per diem rates for Dutch universities, and expenditures before or after the duration of the proposed research program are not eligible. As part of the subgrant, the recipient agrees to submit a final scientific report within 3 months after the end of the research program.
 
 ## TAILOR Labs?
 
-Below is the full list of TAILOR labs you can visit, ordered by country. If you are from one of these labs, you can invite someone from another TAILOR lab to visit you, or be invited to visit another TAILOR lab.
+Below is the full list of TAILOR labs you can visit, ordered by country. You (the guest) and the host should be affiliated to one of these labs.
 
 1. TECHNISCHE UNIVERSITAET GRAZ, Austria
 1. KATHOLIEKE UNIVERSITEIT LEUVEN, Belgium
