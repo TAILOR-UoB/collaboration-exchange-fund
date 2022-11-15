@@ -17,7 +17,7 @@ COLLABORATION EXCHANGE FUND
 
 Deadlines any year: 15th January – 15th May – 15th September
 
-## Boosting Connections Between TAILOR Members
+## Boosting Connections Between TAILOR Partners
 
 The TAILOR network includes many of Europe’s top AI lab, and we want to enhance the collaboration between them to create new breakthroughs in AI.
 
@@ -34,7 +34,7 @@ We support research visits between 1 and 3 months. We will pick up the bills so 
 
 ## Great! Can I apply?
 
-The collaboration exchange fund is open to all PhD students from a lab affiliated as a TAILOR network member (see a list of the current members [here](https://tailor-network.eu/network-members/)). You can find the physical location of those lab members in the map below. You need to propose an AI research idea which can benefit from the collaboration of another TAILOR network lab. You should be invited by the host lab with a letter of recommendation which needs to be included into the application form.
+The collaboration exchange fund is open to all PhD students from a lab affiliated as a TAILOR network member (see a list of all the partners [here](https://tailor-network.eu/partners/)). You can find the physical location of those lab partners in the map below. You need to propose an AI research idea which can benefit from the collaboration of another TAILOR network lab. You should be invited by the host lab with a letter of recommendation which needs to be included into the application form.
 
 [![Map of TAILOR partners and members](imgs/map.jpg)](https://www.google.com/maps/d/edit?mid=1_-74YJ64PddGA3ITqfKT2nOtUUoCTcQ&usp=sharing)
 
@@ -101,7 +101,7 @@ During submission, you should choose at least three preferred evaluators for you
 
 ## Who Can Apply? Where Can I Go?
 
-You should be a PhD student affiliated to a lab that belongs to the TAILOR network. The host lab should also belong to the TAILOR network of excellence (you can find a list of the members [here](https://tailor-network.eu/network-members/)).
+You should be a PhD student affiliated to a lab that belongs to the TAILOR network. The host lab should also belong to the TAILOR network of excellence (you can find a list of the partners [here](https://tailor-network.eu/partners/)).
 
 In almost all cases, your own nationality is not important, but rather where the lab is located that will receive the funding for your research visit or workshop. That can be either your own lab or your host lab.
 
