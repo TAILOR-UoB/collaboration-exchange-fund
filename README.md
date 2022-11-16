@@ -95,7 +95,7 @@ Proposals will be evaluated on the following points, using the respective weigth
 - **Suitability of the host** (12.5%). Is the host lab appropriate? Is it the best place to do the proposed research?
 - **Suitability of the visit length** (12.5%). Is the visit length appropriate and realistic, also taking into account your personal and family situation? ~If you plan to separate the research visit into multiple visits, clearly explain why this is necessary. This could either be for scientific or personal reasons (e.g. family commitments).~
 
-During submission, you should choose at least three preferred evaluators for your proposal from the [scientific board](https://tailor-network.eu/connectivity-fund/connectivity-fund-scientific-board/). The actual reviewer may be different as we aim to evenly distribute the evaluation load.
+During submission, you should choose at least three preferred evaluators for your proposal from the [scientific board](https://tailor-network.eu/connectivity-fund/connectivity-fund-scientific-board/). (The actual reviewers may be different as we aim to evenly distribute the evaluation load.)
 
 ~You should be a PhD student affiliated to a lab that belongs to the TAILOR network. The host lab should also belong to the TAILOR network of excellence (you can find a list of the partners [here](https://tailor-network.eu/partners/)).~
 
