@@ -19,35 +19,31 @@ Deadlines any year: 15th January – 15th May – 15th September
 
 ## Boosting Connections Between TAILOR Partners
 
-The TAILOR network includes many of Europe’s top AI lab, and we want to enhance the collaboration between them to create new breakthroughs in AI.
-
-We especially aim to support PhD students to gain valuable experience and nurture the next generation of AI researchers.
+The TAILOR network includes many of Europe’s top AI labs, and the TAILOR **Collaboration Exchange Fund** aims to enhance collaboration between [TAILOR partners](https://tailor-network.eu/partners/) by funding mobility of PhD students.
 
 - [View funded visits ->](#funded-visits)
 - [Read more & Apply ->](#how-to-apply)
-- [Scientific board ->](#scientific-board)
+- [Scientific board ->](https://tailor-network.eu/connectivity-fund/connectivity-fund-scientific-board/)
 
 
 ## Research Visits
 
-We support research visits between 1 and 3 months. We will pick up the bills so that you can focus on doing excellent AI. You and your host lab must belong to the TAILOR network.
+We support research visits between 1 and 3 months. We will pick up the bills so that you can focus on doing excellent AI. Both your lab and the host lab must be [TAILOR partners](https://tailor-network.eu/partners/). 
 
 ## Great! Can I apply?
 
-The collaboration exchange fund is open to all PhD students from a lab affiliated as a TAILOR network member (see a list of all the partners [here](https://tailor-network.eu/partners/)). You can find the physical location of those lab partners in the map below. You need to propose an AI research idea which can benefit from the collaboration of another TAILOR network lab. You should be invited by the host lab with a letter of recommendation which needs to be included into the application form.
-
-[![Map of TAILOR partners and members](imgs/map.jpg)](https://www.google.com/maps/d/edit?mid=1_-74YJ64PddGA3ITqfKT2nOtUUoCTcQ&usp=sharing)
+The Collaboration Exchange fund is open to all PhD students from one of the [54 TAILOR partners](https://tailor-network.eu/partners/)) (for exchanges involving a [TAILOR network member](https://tailor-network.eu/network-members/) or a lab not currently part of the TAILOR network you should apply to the [Connectivity Fund](https://tailor-network.eu/connectivity-fund/)). You need a great idea to do excellent AI research within the broad ara of *Trustworthy AI through Integrating Learning, Optimisation and Reasining*, and have an invitation letter from your hosting lab
 
 ## Research Visits Goals
 
-We are looking for visits that help young researchers gain experience and world-wide recognition by working in excellent labs (scientific step-up). ~Ideally, the visit also brings in expertise from outside the TAILOR network (scientific influx) and/or align different European AI initiatives (scientific alliance).~
+We are looking for visits that help young researchers gain experience and world-wide recognition by working in excellent labs (scientific step-up). Ideally, the visit also brings together expertise that is currently spread over distinct TAILOR partners (scientific integration) and/or align different European AI initiatives (scientific alliance).
 
 
 How to apply?
 ==========================================================================
 ## New call every 4 months
 
-The collaboration exchange fund uses a continuous open call. Every 4 months, proposals are ranked by an international review committee.
+The **Collaboration Exchange Fund** uses a continuous open call. Every 4 months, proposals are ranked by an international [scientific board](https://tailor-network.eu/connectivity-fund/connectivity-fund-scientific-board/).
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vQ8xuwNCmF1p51WqWaF87RgoNMOUJbfVwO2UXoJQExj-UeGWTlZpLKyVWKlax2UdcSx6pJbvYsmZ9AU/pub?w=901&h=454">
 
@@ -56,7 +52,7 @@ _The previous figure can be edited in the [Google Drawing schema](https://docs.g
 
 ## When?
 
-You can submit at any time. Proposals will be collected and ranked every year according to the following schedule. Latest possible submission is 15th of January 2024 (with a start date no later than 1st of June).
+You can submit at any time. Proposals will be collected and ranked at fixed points in time according to the following schedule. Latest possible submission is 15th of January 2024 (with a start date no later than 1st of June).
 
 | Deadline for application\* | Start date visits          | Notification  |
 | -------------------------- | -------------------------- | ------------  |
@@ -72,6 +68,8 @@ You can submit at any time. Proposals will be collected and ranked every year ac
 You should prepare a short proposal, as a single pdf including all appendices (e.g. CV and invitation letter). Maximum length: 5 pages, 11 point, 1″ margins, not including references/appendices. This single pdf-document should be submitted using Easychair. You may have to create an Easychair account.
 
 [Button to Submit your proposal >>](https://easychair.org/my/conference?conf=tailor-collab-2022-1) _The link is provisional, while the Easychair funding is created_
+
+_PF: Needs to be replaced by Google form_
 
 ### Proposal template
 
@@ -97,103 +95,26 @@ Proposals will be evaluated on the following points, using the respective weigth
 - **Suitability of the host** (12.5%). Is the host lab appropriate? Is it the best place to do the proposed research?
 - **Suitability of the visit length** (12.5%). Is the visit length appropriate and realistic, also taking into account your personal and family situation? ~If you plan to separate the research visit into multiple visits, clearly explain why this is necessary. This could either be for scientific or personal reasons (e.g. family commitments).~
 
-During submission, you should choose at least three preferred evaluators for your proposal from the [scientific board](#scientific-board). The actual reviewer may be different as we aim to evenly distribute the evaluation load.
+During submission, you should choose at least three preferred evaluators for your proposal from the [scientific board](https://tailor-network.eu/connectivity-fund/connectivity-fund-scientific-board/). The actual reviewer may be different as we aim to evenly distribute the evaluation load.
 
-## Who Can Apply? Where Can I Go?
+~You should be a PhD student affiliated to a lab that belongs to the TAILOR network. The host lab should also belong to the TAILOR network of excellence (you can find a list of the partners [here](https://tailor-network.eu/partners/)).~
 
-You should be a PhD student affiliated to a lab that belongs to the TAILOR network. The host lab should also belong to the TAILOR network of excellence (you can find a list of the partners [here](https://tailor-network.eu/partners/)).
-
-In almost all cases, your own nationality is not important, but rather where the lab is located that will receive the funding for your research visit or workshop. That can be either your own lab or your host lab.
+~In almost all cases, your own nationality is not important, but rather where the lab is located that will receive the funding for your research visit or workshop. That can be either your own lab or your host lab.~
 
 ## How Much?
 
-We can support visits up to 15.000 EUR per proposal. We aim to support **20** visits over 2 years. The fund only covers travel, housing, and sustenance. The support is offered as a lump sum based on a cost estimate submitted beforehand. 60% of the lump sum will be paid at the start of the visit. The remaining 40% will be paid after the final report has been received and approved.
+We can support visits up to 15.000 EUR per proposal. We aim to support **20** visits over 2 years. The fund only covers travel, housing, and subsistence. The support is offered as a lump sum based on a cost estimate submitted beforehand. 60% of the lump sum will be paid at the start of the visit. The remaining 40% will be paid after the final report has been received and approved.
 
 ## Practical Organization
 
-Collaboration exchange fund research visits are executed as financial support to third parties (FSTP), and only reimburses travel costs (by invoice). A Subgrant Agreement will be established between the institute of the applicant (e.g. a university or company) and the Eindhoven University of Technology, who manages the collaboration exchange fund on behalf of the TAILOR Network of Excellence. The agreement is signed by representatives of both parties. We cannot fund individual people directly. A final budget and start and end dates of the research program are defined in the subgrant agreement. 60% of this budget can be requested by invoice before the start of the research visit. The remainder of the budget can be requested by a second invoice after the end of the visit or workshop, matching (only) the actual costs made. The recipient of the subgrant must ensure that proofs of actual costs are kept for the European Court of Auditors (ECA) and European Anti-fraud Office (OLAF) for a period of 5 years. Such costs can be actual proofs or per-diem allowances per local regulations of the recipient. Expenses are capped using the standard per diem rates for Dutch universities, and expenditures before or after the duration of the proposed research program are not eligible. As part of the subgrant, the recipient agrees to submit a final scientific report within 3 months after the end of the research program.
+_PF: this needs to be checked with Trine, as Collaboration Exchanges are not FSTP_
 
-## TAILOR Labs?
+**Collaboration Exchange Fund** research visits are executed as financial support to third parties (FSTP), and only reimburses travel costs (by invoice). A Subgrant Agreement will be established between the institute of the applicant (e.g. a university or company) and the Eindhoven University of Technology, who manages the **Collaboration Exchange Fund** on behalf of the TAILOR Network of Excellence. The agreement is signed by representatives of both parties. We cannot fund individual people directly. A final budget and start and end dates of the research program are defined in the subgrant agreement. 60% of this budget can be requested by invoice before the start of the research visit. The remainder of the budget can be requested by a second invoice after the end of the visit or workshop, matching (only) the actual costs made. The recipient of the subgrant must ensure that proofs of actual costs are kept for the European Court of Auditors (ECA) and European Anti-fraud Office (OLAF) for a period of 5 years. Such costs can be actual proofs or per-diem allowances per local regulations of the recipient. Expenses are capped using the standard per diem rates for Dutch universities, and expenditures before or after the duration of the proposed research program are not eligible. As part of the subgrant, the recipient agrees to submit a final scientific report within 3 months after the end of the research program.
 
-Below is the full list of TAILOR labs you can visit, ordered by country. You (the guest) and the host should be affiliated to one of these labs.
+~Below is the full list of TAILOR labs you can visit, ordered by country. You (the guest) and the host should be affiliated to one of these labs.~
 
-1. TECHNISCHE UNIVERSITAET GRAZ, Austria
-1. KATHOLIEKE UNIVERSITEIT LEUVEN, Belgium
-1. VRIJE UNIVERSITEIT BRUSSEL, Belgium
-1. UNIVERZITA KARLOVA, Czech Republic
-1. CESKE VYSOKE UCENI TECHNICKE V PRAZE, Czech Republic
-1. TIETO FINLAND OY, Finland
-1. INSTITUT NATIONAL DE RECHERCHE EN INFORMATIQUE ET AUTOMATIQUE (INRIA), France
-1. CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS), France
-1. COMMISSARIAT A L’ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES (CEA), France
-1. UNIVERSITE D’ARTOIS, France
-1. UNIVERSITE GRENOBLE ALPES, France
-1. UNIVERSITE DE RENNES, France
-1. UNIVERSITE DE LORRAINE, France
-1. UNIVERSITE DE MONTPELLIER, France
-1. ELECTRICITE DE FRANCE, France
-1. TECHNISCHE UNIVERSITAT DARMSTADT, Germany
-1. ALBERT-LUDWIGSUNIVERSITAET FREIBURG, Germany
-1. DEUTSCHES FORSCHUNGSZENTRUM FUR KUNSTLICHE INTELLIGENZ (DFKI), Germany
-1. FRAUNHOFER GESELLSCHAFT ZUR FOERDERUNG DER ANGEWANDTEN FORSCHUNG, Germany
-1. RHEINISCH-WESTFAELISCHE TECHNISCHE HOCHSCHULE AACHEN, Germany
-1. VOLKSWAGEN AG, Germany
-1. ZF FRIEDRICHSHAFEN AG, Germany
-1. ROBERT BOSCH GMBH, Germany
-1. ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON, Greece
-1. UNIVERSITY COLLEGE CORK, Ireland
-1. CONSIGLIO NAZIONALE DELLE RICERCHE (CNR), Italy
-1. UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA, Italy
-1. ALMA MATER STUDIORUM – UNIVERSITA DI BOLOGNA, Italy
-1. UNIVERSITA DEGLI STUDI DI TRENTO, Italy
-1. FONDAZIONE BRUNO KESSLER, Italy
-1. CONSORZIO INTERUNIVERSITARIO NAZIONALE PER L’INFORMATICA, Italy
-1. UNIVERSITA DI PISA, Italy
-1. INGEGNERIA INFORMATICA SPA, Italy
-1. BAR ILAN UNIVERSITY, Israel
-1. LUXEMBOURG INSTITUTE OF HEALTH, Luxembourg
-1. UNIVERSITEIT LEIDEN, Netherlands
-1. TECHNISCHE UNIVERSITEIT EINDHOVEN, Netherlands
-1. TECHNISCHE UNIVERSITEIT DELFT, Netherlands
-1. NEDERLANDSE ORGANISATIE VOOR TOEGEPAST NATUURWETENSCHAPPELIJK ONDERZOEK (TNO), Netherlands
-1. PHILIPS ELECTRONICS NEDERLAND BV, Netherlands
-1. CENTRAAL BUREAU VOOR DE STATISTIEK, Netherlands
-1. POLITECHNIKA POZNANSKA, Poland
-1. INSTITUTO SUPERIOR TECNICO, Portugal
-1. UNIVERSIDAD POMPEU FABRA, Spain
-1. AGENCIA ESTATAL CONSEJO SUPERIOR DEINVESTIGACIONES CIENTIFICAS, Spain
-1. UNIVERSIDAD DE MALAGA, Spain
-1. UNIVERSITAT POLITECNICA DE VALENCIA, Spain
-1. COMENIUS UNIVERSITY IN BRATISLAVA, Slovakia
-1. SLOVENSKE CENTRUM PRE VYSKUM UMELEJ INTELIGENCIE – SLOVAK AI, Slovakia
-1. INSTITUT JOZEF STEFAN, Slovenia
-1. LINKOPINGS UNIVERSITET, Sweden
-1. ABB AB, Sweden
-1. ECOLE POLYTECHNIQUE FEDERALE DE LAUSANNE (EPFL), Switzerland
-1. UNIVERSITAT BASEL, Switzerland
-1. UNIVERSITY OF OXFORD, United Kingdom
-1. IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE, United Kingdom
-1. UNIVERSITY OF BRISTOL, United Kingdom
-1. UNIVERSITY OF LANCASTER, United Kingdom
 
-Scientific Board
-==========================================================================
-
-Current list from the [Connectivity Fund scientific board](https://tailor-network.eu/connectivity-fund/connectivity-fund-scientific-board/)
-
-- Mitra Baratchi, Leiden University, Netherlands
-- Giovanni Casini, National Research Council of Italy
-- Saso Džeroski, Jozef Stefan Institute, Slovenia
-- Peter Flach, Bristol University, UK
-- Hector Geffner, Universitat Pompeu Fabra, Spain
-- Marco Gori, University of Siena, Italy
-- Jose Hernandez-Orallo, Universitat Politècnica de València, Spain
-- Catholijn Jonker, Delft University, Netherlands
-- Gerhard Lakemeyer, RWTH Aachen University, Germany
-- Andrea Passerini, Trento University, Italy
-- Marie-Christine Rousset, Laboratoire d'Informatique de Grenoble, France
-- Carles Sierra, Artificial Intelligence Research Institute (IIIA-CSIC), Spain
-- Joaquin Vanschoren,  Eindhoven University of Technology, Netherlands
+~Current list from the [Connectivity Fund scientific board](https://tailor-network.eu/connectivity-fund/connectivity-fund-scientific-board/)~
 
 Funded visits
 ==========================================================================
