@@ -65,11 +65,13 @@ You can submit at any time. Proposals will be collected and ranked at fixed poin
 
 ## What To Submit?
 
-You should prepare a short proposal, as a single pdf including all appendices (e.g. CV and invitation letter). Maximum length: 5 pages, 11 point, 1″ margins, not including references/appendices. This single pdf-document should be submitted using Easychair. You may have to create an Easychair account.
+You should prepare a short proposal, as a single pdf including all appendices
+(e.g. CV and invitation letter). Maximum length: 5 pages, 11 point, 1″ margins,
+not including references/appendices. This single pdf-document should be
+submitted using a Google Form. If you want to save the progress you may need to
+create a Google account.
 
-[Button to Submit your proposal >>](https://easychair.org/my/conference?conf=tailor-collab-2022-1) _The link is provisional, while the Easychair funding is created_
-
-_PF: Needs to be replaced by Google form_
+[Button to Submit your proposal >>](https://docs.google.com/forms/d/e/1FAIpQLSeyD7IxTXmPxgzuWF6XDggVdaUTYZ-PQiiUPnVZDh03OdxPBg/viewform?usp=sf_link)
 
 ### Proposal template
 
