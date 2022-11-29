@@ -28,7 +28,7 @@ The TAILOR network includes many of Europe’s top AI labs, and the TAILOR **Col
 
 ## Research Visits
 
-We support research visits between 1 and 3 months. We will pick up the bills so that you can focus on doing excellent AI. Both your lab and the host lab must be [TAILOR partners](https://tailor-network.eu/partners/). 
+We support research visits between 1 and 3 months. We will provide additional funding to your organisation that will allow you to focus on doing excellent AI. Both your lab and the host lab must be part of a [TAILOR partner organisation](https://tailor-network.eu/partners/). 
 
 ## Great! Can I apply?
 
@@ -43,7 +43,7 @@ How to apply?
 ==========================================================================
 ## New call every 4 months
 
-The **Collaboration Exchange Fund** uses a continuous open call. Every 4 months, proposals are ranked by an international [scientific board](https://tailor-network.eu/connectivity-fund/connectivity-fund-scientific-board/).
+The **Collaboration Exchange Fund** uses a continuous open call. Every 4 months, proposals are ranked by an [international scientific board](https://tailor-network.eu/connectivity-fund/connectivity-fund-scientific-board/).
 
 <img src="https://docs.google.com/drawings/d/e/2PACX-1vQ8xuwNCmF1p51WqWaF87RgoNMOUJbfVwO2UXoJQExj-UeGWTlZpLKyVWKlax2UdcSx6pJbvYsmZ9AU/pub?w=901&h=454">
 
@@ -67,9 +67,8 @@ You can submit at any time. Proposals will be collected and ranked at fixed poin
 
 You should prepare a short proposal, as a single pdf including all appendices
 (e.g. CV and invitation letter). Maximum length: 5 pages, 11 point, 1″ margins,
-not including references/appendices. This single pdf-document should be
-submitted using a Google Form. If you want to save the progress you may need to
-create a Google account.
+not including references/appendices. The single pdf-document should be less than
+10MB and can be submitted using the form following the button below.
 
 [Button to Submit your proposal >>](https://docs.google.com/forms/d/e/1FAIpQLSeyD7IxTXmPxgzuWF6XDggVdaUTYZ-PQiiUPnVZDh03OdxPBg/viewform?usp=sf_link)
 
@@ -82,10 +81,14 @@ create a Google account.
   - Expected Results: Please include milestones with timeline estimates. This could include datasets, code release, tech reports, publications, presentations,...
 - Impact: How will the visit impact you (e.g. your career) or the scientific community?
 - Execution: Motivate your choice of host lab, visit duration, and starting date.
-- Funds needed: Requested amount. Provide estimates of your main expenses. Note the [maximum ‘per diem’ reimbursement amounts](https://tailor-network.eu/wp-content/uploads/2022/05/TAILOR_travel_rates.pdf?_ga=2.44618852.137512683.1666703251-1181339180.1666703251&_gl=1*1yfq1b6*_ga*MTE4MTMzOTE4MC4xNjY2NzAzMjUx*_ga_86QR8E54YE*MTY2Njc3NzU3NC4zLjEuMTY2Njc4MTI0NS4wLjAuMA..).
+- Funds needed: Requested amount. Provide estimates of your main expenses. This calculation should be based on your own organisation's policy for travel expenses and per diem allowances.
 - Additional information: Is there anything else that we should know about you (e.g. personal information), the host, or the proposed research?
 
-In the appendices, you need to submit your Curriculum Vitae (CV) and an invitation letter from your host stating that they will host you during the indicated period.
+In the appendices, you need to submit the following:
+
+1. your Curriculum Vitae (CV), and
+2. an invitation letter from your host stating that they will host you during the indicated period, and
+3. a letter of support from your own organisation’s main TAILOR scientist (the name of that person can be found on the Partner page). The letter of support should clearly state that your own organisation will pay the costs related to the research visit using additional funding provided within the TAILOR project as a budget transfer between partners.
 
 ### What’s important?
 
@@ -95,13 +98,9 @@ Proposals will be evaluated on the following points, using the respective weigth
 - **Scientific track record** (25%). Your prior achievements, taking into account age and personal situation. 
 - **Scientific step-up** (25%). How does the visit help you grow professionally and establish a worldwide reputation?
 - **Suitability of the host** (12.5%). Is the host lab appropriate? Is it the best place to do the proposed research?
-- **Suitability of the visit length** (12.5%). Is the visit length appropriate and realistic, also taking into account your personal and family situation? ~If you plan to separate the research visit into multiple visits, clearly explain why this is necessary. This could either be for scientific or personal reasons (e.g. family commitments).~
+- **Suitability of the visit length** (12.5%). Is the visit length appropriate and realistic, also taking into account your personal and family situation?
 
 During submission, you should choose at least three preferred evaluators for your proposal from the [scientific board](https://tailor-network.eu/connectivity-fund/connectivity-fund-scientific-board/). (The actual reviewers may be different as we aim to evenly distribute the evaluation load.)
-
-~You should be a PhD student affiliated to a lab that belongs to the TAILOR network. The host lab should also belong to the TAILOR network of excellence (you can find a list of the partners [here](https://tailor-network.eu/partners/)).~
-
-~In almost all cases, your own nationality is not important, but rather where the lab is located that will receive the funding for your research visit or workshop. That can be either your own lab or your host lab.~
 
 ## How Much?
 
@@ -109,14 +108,9 @@ We can support visits up to 15.000 EUR per proposal. We aim to support **20** vi
 
 ## Practical Organization
 
-_PF: this needs to be checked with Trine, as Collaboration Exchanges are not FSTP_
+The support is offered as a budget transfer from the lead partner (LiU) to the sending organisation (the PhD-students home organisation) based on a cost estimate submitted beforehand. All costs related to the exchange must be paid directly by the sending organisation and declared to the EC as part of the regular reporting towards the EC.
 
-**Collaboration Exchange Fund** research visits are executed as financial support to third parties (FSTP), and only reimburses travel costs (by invoice). A Subgrant Agreement will be established between the institute of the applicant (e.g. a university or company) and the Eindhoven University of Technology, who manages the **Collaboration Exchange Fund** on behalf of the TAILOR Network of Excellence. The agreement is signed by representatives of both parties. We cannot fund individual people directly. A final budget and start and end dates of the research program are defined in the subgrant agreement. 60% of this budget can be requested by invoice before the start of the research visit. The remainder of the budget can be requested by a second invoice after the end of the visit or workshop, matching (only) the actual costs made. The recipient of the subgrant must ensure that proofs of actual costs are kept for the European Court of Auditors (ECA) and European Anti-fraud Office (OLAF) for a period of 5 years. Such costs can be actual proofs or per-diem allowances per local regulations of the recipient. Expenses are capped using the standard per diem rates for Dutch universities, and expenditures before or after the duration of the proposed research program are not eligible. As part of the subgrant, the recipient agrees to submit a final scientific report within 3 months after the end of the research program.
-
-~Below is the full list of TAILOR labs you can visit, ordered by country. You (the guest) and the host should be affiliated to one of these labs.~
-
-
-~Current list from the [Connectivity Fund scientific board](https://tailor-network.eu/connectivity-fund/connectivity-fund-scientific-board/)~
+The budget transfer will be effective after the submission of a scientific report at the end of the visit.
 
 Funded visits
 ==========================================================================
