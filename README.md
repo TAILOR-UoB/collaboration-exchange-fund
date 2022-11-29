@@ -32,7 +32,7 @@ We support research visits between 1 and 3 months. We will provide additional fu
 
 ## Great! Can I apply?
 
-The Collaboration Exchange fund is open to all PhD students from one of the [54 TAILOR partners](https://tailor-network.eu/partners/)) (for exchanges involving a [TAILOR network member](https://tailor-network.eu/network-members/) or a lab not currently part of the TAILOR network you should apply to the [Connectivity Fund](https://tailor-network.eu/connectivity-fund/)). You need a great idea to do excellent AI research within the broad ara of *Trustworthy AI through Integrating Learning, Optimisation and Reasining*, and have an invitation letter from your hosting lab
+The Collaboration Exchange fund is open to all PhD students from one of the [54 TAILOR partners](https://tailor-network.eu/partners/) (for exchanges involving a [TAILOR network member](https://tailor-network.eu/network-members/) or a lab not currently part of the TAILOR network you should apply to the [Connectivity Fund](https://tailor-network.eu/connectivity-fund/)). You need a great idea to do excellent AI research within the broad ara of *Trustworthy AI through Integrating Learning, Optimisation and Reasining*, an invitation letter from your hosting lab, and a letter of support from the main TAILOR scientist of your organisation.
 
 ## Research Visits Goals
 
@@ -67,7 +67,7 @@ You can submit at any time. Proposals will be collected and ranked at fixed poin
 
 You should prepare a short proposal, as a single pdf including all appendices
 (e.g. CV and invitation letter). Maximum length: 5 pages, 11 point, 1″ margins,
-not including references/appendices. The single pdf-document should be less than
+not including references/appendices. The single pdf document should be less than
 10MB and can be submitted using the form following the button below.
 
 [Button to Submit your proposal >>](https://docs.google.com/forms/d/e/1FAIpQLSeyD7IxTXmPxgzuWF6XDggVdaUTYZ-PQiiUPnVZDh03OdxPBg/viewform?usp=sf_link)
@@ -84,11 +84,11 @@ not including references/appendices. The single pdf-document should be less than
 - Funds needed: Requested amount. Provide estimates of your main expenses. This calculation should be based on your own organisation's policy for travel expenses and per diem allowances.
 - Additional information: Is there anything else that we should know about you (e.g. personal information), the host, or the proposed research?
 
-In the appendices, you need to submit the following:
+You need to add the following in the appendices:
 
 1. your Curriculum Vitae (CV), and
 2. an invitation letter from your host stating that they will host you during the indicated period, and
-3. a letter of support from your own organisation’s main TAILOR scientist (the name of that person can be found on the Partner page). The letter of support should clearly state that your own organisation will pay the costs related to the research visit using additional funding provided within the TAILOR project as a budget transfer between partners.
+3. a letter of support from your own organisation’s main TAILOR scientist (the name of that person can be found on the Partner page). The letter of support should clearly state that your own organisation will pay the costs related to the research visit using additional funding provided within the TAILOR project as a budget transfer between partners. You can find additional details of the payment in Section [Practical Organization](#practical-organization).
 
 ### What’s important?
 
