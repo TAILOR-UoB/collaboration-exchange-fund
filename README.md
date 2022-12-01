@@ -32,7 +32,9 @@ We support research visits between 1 and 3 months. We will provide additional fu
 
 ## Great! Can I apply?
 
-The Collaboration Exchange fund is open to all PhD students from one of the [54 TAILOR partners](https://tailor-network.eu/partners/) (for exchanges involving a [TAILOR network member](https://tailor-network.eu/network-members/) or a lab not currently part of the TAILOR network you should apply to the [Connectivity Fund](https://tailor-network.eu/connectivity-fund/)). You need a great idea to do excellent AI research within the broad ara of *Trustworthy AI through Integrating Learning, Optimisation and Reasining*, an invitation letter from your hosting lab, and a letter of support from the main TAILOR scientist of your organisation.
+The Collaboration Exchange fund is open to all PhD students from one of the 54 TAILOR partners. The host lab also has to belong to a TAILOR partner\*. You need a great idea to do excellent AI research within the broad area of *Trustworthy AI through Integrating Learning, Optimisation and Reasining*, and have an invitation letter from your hosting lab, and a letter of support from the main TAILOR scientist of your organisation.
+
+\*Please note that for research visits involving non-partners and a TAILOR member there is a separate TAILOR [Connectivity Fund](https://tailor-network.eu/connectivity-fund/)).
 
 ## Research Visits Goals
 
@@ -104,7 +106,7 @@ During submission, you should choose at least three preferred evaluators for you
 
 ## How Much?
 
-We can support visits up to 15.000 EUR per proposal. We aim to support **20** visits over 2 years. The fund only covers travel, housing, and subsistence. The support is offered as a lump sum based on a cost estimate submitted beforehand. 60% of the lump sum will be paid at the start of the visit. The remaining 40% will be paid after the final report has been received and approved.
+We can support visits and workshops up to 15.000 EUR per proposal. We aim to support **20** visits over 2 years. The fund only covers travel, housing, and subsistence.
 
 ## Practical Organization
 
