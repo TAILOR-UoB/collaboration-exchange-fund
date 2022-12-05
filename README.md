@@ -106,7 +106,7 @@ During submission, you should choose at least three preferred evaluators for you
 
 ## How Much?
 
-We can support visits and workshops up to 15.000 EUR per proposal. We aim to support **20** visits over 2 years. The fund only covers travel, housing, and subsistence.
+We can support visits up to 15.000 EUR per proposal. We aim to support **20** visits over 2 years. The fund only covers travel, housing, and subsistence.
 
 ## Practical Organization
 
