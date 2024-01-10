@@ -1,5 +1,7 @@
 # Collaboration Exchange Fund
 
+**NOTE**: This website has been unpublished from GitHub and the final content is being published under the TAILOR website https://tailor-network.eu/cef/
+
 View an online rendered version of the html files at https://TAILOR-UoB.github.io/collaboration-exchange-fund/
 
 This is a static html version of the content intended to be added into the
